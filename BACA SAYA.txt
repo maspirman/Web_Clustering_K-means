@@ -1,0 +1,11 @@
+-gunakan xampp/ php versi 7.4 keatas
+-extarct file ke dalam folder xampp/htdocs
+-nyalakan xampp control panel bagian apache dan mysql
+-buka dulu localhost/phpmyadmin di browser
+-buat database baru dengan nama darul-falah
+- Import File MySQL nya yang ada di folder DATABASE
+- jalankan http://localhost/darul-falah-kmeans 
+
+untuk login:
+username: admin
+password: admin
